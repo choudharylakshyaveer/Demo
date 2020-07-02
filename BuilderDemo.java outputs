@@ -1,0 +1,53 @@
+Hi, for the BuilderDemo.java I have attached the following outputs:
+
+Run1:
+
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+Run2:
+null
+null
+null
+null
+null
+null
+null
+null
+id = 1, name = Ram, address = Noida
+null
+
+
+Run3:
+
+null
+null
+null
+null
+null
+null
+null
+null
+null
+id = 1, name = Ram, address = Noida
+
+Run4:
+
+null
+null
+null
+null
+null
+id = 1, name = Ram, address = Noida
+null
+null
+null
+null
